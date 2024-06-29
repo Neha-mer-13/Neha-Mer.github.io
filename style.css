@@ -23,6 +23,12 @@ html {
     background-size: cover;
     background-position: center;
 }
+#hheader {
+    
+   
+    background-size: cover;
+    background-position: center;
+}
 
 .container {
     padding: 10px 10%;
@@ -234,6 +240,7 @@ nav ul li a:hover::after {
 
 .work img {
     width: 100%;
+    height: fit-content;
     border-radius: 10px;
     display: block;
     transition: transform 0.5s;
