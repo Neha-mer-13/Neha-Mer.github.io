@@ -188,6 +188,7 @@ nav ul li a:hover::after {
   mask-repeat: no-repeat;
   -webkit-mask-size: 100% 100%;
   mask-size: 100% 100%;
+ padding:0px;
 }
 
 .Service-list {
